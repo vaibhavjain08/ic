@@ -59,14 +59,11 @@ Follow the commands below to clone this repository on your system
 
 >Google OAuth 
 
-<img src="https://user-images.githubusercontent.com/48273777/114642636-e0f2ec00-9cf1-11eb-8252-e475bc325911.png" width="500" title="Google OAuth" />
 
 > Picture Uploading
-
-<img src="https://user-images.githubusercontent.com/48273777/114642710-0253d800-9cf2-11eb-95cb-8177a14790dd.png" width="500" title="New Chat" />
   
   
 
 ### 👇 Live Demo - 
-[Click here](https://instagram-clone-dbe40.web.app//) to go to the Live Demo 🔥 🔥
+[Click here](#) to go to the Live Demo 🔥 🔥
 
